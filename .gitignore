@@ -3,6 +3,7 @@
 # Install
 /build
 /dist
+/astroabc.egg-info
 
 #IPython
 .ipynb_checkpoints/
